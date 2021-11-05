@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Halil İbrahim Öztekin</h1>
 <h3 align="center">An ambitious iOS developer from Turkey</h3>
 
+
+
+<p> <img align=“center” src="https://github-readme-stats.vercel.app/api?username=halilibrahimoztekin&show_icons=true&locale=en" alt=“halilibrahimoztekin” /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilibrahimoztekin&label=Profile%20views&color=0e75b6&style=flat" alt="halilibrahimoztekin" /> </p>
 
 - 🔭 I’m currently working on [Swift 5 and iOS Library](https://github.com/halilibrahimoztekin?tab=repositories)
@@ -64,3 +67,7 @@
 
 
 <p align="left">        </p>
+<p><img align=“left” src="https://github-readme-stats.vercel.app/api/top-langs?username=halilibrahimoztekin&show_icons=true&theme=dark&locale=en&layout=compact" alt=“halilibrahimoztekin” /></p>
+
+
+<p><img align=“center” src="https://github-readme-streak-stats.herokuapp.com/?user=halilibrahimoztekin&" alt=“halilibrahimoztekin” /></p>
