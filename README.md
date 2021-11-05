@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Swift and iOS Development**
 
-- 👯 I’m looking to collaborate on [the development of swift](https://github.com/halilibrahimoztekin?tab=repositories)
-
 - 🤝 I’m looking for help with [Using MVVM witf Swift 5](https://github.com/halilibrahimoztekin?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [https://github.com/halilibrahimoztekin?tab=repositories](https://github.com/halilibrahimoztekin?tab=repositories)
