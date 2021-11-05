@@ -66,8 +66,5 @@
 
 
 
-<p align="left">        </p>
-<p><img align=“left” src="https://github-readme-stats.vercel.app/api/top-langs?username=halilibrahimoztekin&show_icons=true&theme=dark&locale=en&layout=compact" alt=“halilibrahimoztekin” /></p>
 
-
-<p><img align=“right” src="https://github-readme-streak-stats.herokuapp.com/?user=halilibrahimoztekin&" alt=“halilibrahimoztekin” /></p>
+<img align=“right” src="https://github-readme-streak-stats.herokuapp.com/?user=halilibrahimoztekin&" alt=“halilibrahimoztekin” /></p>
