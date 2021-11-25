@@ -4,7 +4,7 @@
 
 
 
-<p> <img align=“center” src="https://github-readme-stats.vercel.app/api?username=halilibrahimoztekin&show_icons=true&locale=en" alt=“halilibrahimoztekin” /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilibrahimoztekin&label=Profile%20views&color=0e75b6&style=flat" alt="halilibrahimoztekin" /> </p>
 
 - 🔭 I’m currently working on [Swift 5 and iOS Library](https://github.com/halilibrahimoztekin?tab=repositories)
